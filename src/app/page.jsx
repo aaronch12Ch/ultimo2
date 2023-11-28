@@ -18,7 +18,7 @@ function HomePage() {
     </div>
     <div className='border-dashed border-2 border-white bg-neutral-900	rounded-lg mx-8 flex justify-center items-center mt-16' >
       <h2 className="text-white text-8xl  nuevo3  ">¿Quienes somos?</h2>
-      <p className=' text-white pl-5'>El propósito de este proyecto es crear una plataforma web 
+      <p className=' text-white pl-5 ppod'>El propósito de este proyecto es crear una plataforma web 
         utilizando el lenguaje React para ofrecer a los entusiastas de la cultura 
         geek un espacio interactivo donde puedan explorar, disfrutar y discutir sobre 
         una amplia gama de temas, desde sagas cinematográficas hasta innovaciones tecnológicas, 
