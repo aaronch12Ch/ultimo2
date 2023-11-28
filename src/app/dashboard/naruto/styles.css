@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ttOctosquares';
+    src: url('../../../assets/fonts/ttO.ttf');
+}
+
+.capitulosSt{
+    font-size: 35px;
+    font-family:'ttOctosquares','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: italic;
+    color: #F28705;
+}

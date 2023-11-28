@@ -1,0 +1,13 @@
+.transP{
+    background-color: rgba(137, 43, 226, 0.8);
+    border-radius: 25px;
+    padding: 2%;
+}
+.colorButon{
+    
+    cursor: pointer;
+    color: #ffffff;
+    transition: background-color 0.3s, color 0.3s;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+}

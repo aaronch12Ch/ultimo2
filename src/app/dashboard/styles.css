@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'ttOctosquares';
+    src: url('../../assets/fonts/ttO.ttf');
+}
+
+h1{
+    font-family:'ttOctosquares','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-shadow: 10px 10px 8px rgb(139, 92, 246 ,0.9);
+}
+Link{
+    font-size: 40px;
+}
+.nuevo3{
+    
+    font-family:'ttOctosquares','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: italic;
+}
+.contenedorx{
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100px;
+    
+}
+.contenedorx ul li{
+    float: right;
+     list-style-type: none;
+    text-align: left;
+}
